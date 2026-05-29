@@ -79,7 +79,7 @@ Implemented:
 # 📫 Connect With Me
 
 - 📧 Email: your-email@gmail.com
-- 💼 LinkedIn: https://linkedin.com/in/your-linkedin
+- 💼 LinkedIn:[ https://linkedin.com/in/your-linkedin](https://www.linkedin.com/in/priyanshu-dayal123/)
 - 🌟 GitHub: https://github.com/PriyanshuNITSGR
 
 ---
