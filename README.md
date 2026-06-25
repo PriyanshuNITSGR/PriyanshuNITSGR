@@ -2,7 +2,6 @@
 
 # 👋 Hey, I'm Priyanshu Dayal
 
-
 </div>
 
 ---
